@@ -140,12 +140,11 @@ Notes:
 If you find HiSync useful, please cite:
 
 ```bibtex
-@inproceedings{hisync_chi2026,
-    title     = {HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI},
-    author={Zhang, Chengwen and Yu, Chun and Zhuang, Borong and Jin, Haopeng and Wan, Qingyang and Li, Zhuojun and He, Zhe and Ye, Zhoutong and Mei, Yu and Liu, Chang and Shi, Weinan and Shi, Yuanchun},
-    booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
-    year      = {2026},
-    pages     = {1--18}
+@article{zhang2026hisync,
+  title={HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI},
+  author={Zhang, Chengwen and Yu, Chun and Zhuang, Borong and Jin, Haopeng and Wan, Qingyang and Li, Zhuojun and He, Zhe and Ye, Zhoutong and Mei, Yu and Liu, Chang and others},
+  journal={arXiv preprint arXiv:2603.11809},
+  year={2026}
 }
 ```
 
