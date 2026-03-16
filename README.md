@@ -8,14 +8,18 @@ Dataset page: <https://huggingface.co/datasets/Octopus1/HiSync>
 
 arXiv preprint: <https://arxiv.org/abs/2603.11809>
 
+## News
+
+- 2026/04/15 HiSync will be presented at CCIB, P1 - Room 116.
+- 2026/03/16 Dataset temporarily switched to grant-only access due to incomplete face anonymization in some samples. Public access is expected to reopen by the end of March.
+- 2026/03/13 Paper posted on arXiv and dataset released on Hugging Face.
+- 2026/03/02 CHI 2026 paper accepted.
+- 2026/02/02 Public data release planned before the CHI 2026 conference.
+
 ## Abstract
 
 Long-range Human-Robot Interaction (HRI) remains underexplored. Within it, Command Source Identification (CSI) - determining who issued a command - is especially challenging due to multi-user and distance-induced sensor ambiguity. We introduce HiSync, an optical-inertial fusion framework that treats hand motion as binding cues by aligning robot-mounted camera optical flow with hand-worn IMU signals. We first elicit a user-defined (N=12) gesture set and collect a multimodal command gesture dataset (N=38) in long-range multi-user HRI scenarios. Next, HiSync extracts frequency-domain hand motion features from both camera and IMU data, and a learned CSINet denoises IMU readings, temporally aligns modalities, and performs distance-aware multi-window fusion to compute cross-modal similarity of subtle, natural gestures, enabling robust CSI. In three-person scenes up to 34m, HiSync achieves 92.32% CSI accuracy, outperforming the prior SOTA by 48.44%. HiSync is also validated on real-robot deployment. By making CSI reliable and natural, HiSync provides a practical primitive and design guidance for public-space HRI.
 
-## News
-
-- CHI 2026 paper accepted.
-- Public data release planned before the CHI 2026 conference.
 
 ## Dataset Structure
 
