@@ -11,7 +11,7 @@ arXiv preprint: <https://arxiv.org/abs/2603.11809>
 ## News
 
 - 2026/04/15 HiSync will be presented at CCIB, P1 - Room 116.
-- 2026/03/16 Dataset temporarily switched to grant-only access due to incomplete face anonymization in some samples. Public access is expected to reopen by the end of March.
+- 2026/03/16 Dataset is now fully published and publicly available. 
 - 2026/03/13 Paper posted on arXiv and dataset released on Hugging Face.
 - 2026/03/02 CHI 2026 paper accepted.
 - 2026/02/02 Public data release planned before the CHI 2026 conference.
